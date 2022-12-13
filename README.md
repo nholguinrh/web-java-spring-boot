@@ -15,4 +15,4 @@ A simple Spring Boot "Hello World!" application, buildable with both maven and g
 
 The app runs on port 8080 in the container. When debugging, port 5005 is used for JPDA.
 
-[![Contribute](factory-contribute.svg)](https://devspaces.apps.lab.nholguin.com/factory?url=)
+[![Contribute](factory-contribute.svg)](https://devspaces.apps.lab.nholguin.com/factory?url=https://github.com/nholguinrh/web-java-spring-boot.git)
